@@ -32,6 +32,12 @@
     "config": {
         "sort-packages": true
     },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/sorinvacarescu/c42wink"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true
 }
